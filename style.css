@@ -171,7 +171,7 @@ header {
 
 /* COSTA ESTILOS */
 .costa {
-    background-image: url(/images/costa.png);
+    background-image: url(images/costa.png);
     padding: 100px 0;
     background-position: center;
     background-repeat: no-repeat;
@@ -245,7 +245,7 @@ form#consumoRuralForm input[type="number"]:focus {
 
 /* ESTILOS SELVA */
 .sierra {
-    background-image: url(/images/sierra.png);
+    background-image: url(images/sierra.png);
     padding: 100px 0;
     background-position: center;
     background-repeat: no-repeat;
@@ -319,7 +319,7 @@ form#consumoSierraForm input[type="number"]:focus {
 
 /* ESTILOS SELVA */
 .selva {
-    background-image: url(/images/selva.png);
+    background-image: url(images/selva.png);
     padding: 100px 0;
     background-position: center;
     background-repeat: no-repeat;
@@ -393,7 +393,7 @@ form#consumoSelvaForm input[type="number"]:focus {
 
 /* ESTILOS URBANO */
 .urbano {
-    background-image: url(/images/urbano.png);
+    background-image: url(images/urbano.png);
     padding: 100px 0;
     background-position: center;
     background-repeat: no-repeat;
