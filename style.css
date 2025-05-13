@@ -197,7 +197,7 @@ header {
 .costa-container h2 {
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 4em;
+    font-size: 3.5em;
 }
 
 form#consumoRuralForm {
@@ -271,7 +271,7 @@ form#consumoRuralForm input[type="number"]:focus {
 .sierra-container h2 {
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 4em;
+    font-size: 3.5em;
 }
 
 form#consumoSierraForm {
@@ -345,7 +345,7 @@ form#consumoSierraForm input[type="number"]:focus {
 .selva-container h2 {
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 4em;
+    font-size: 3.5em;
 }
 
 form#consumoSelvaForm {
@@ -419,7 +419,7 @@ form#consumoSelvaForm input[type="number"]:focus {
 .urbano-container h2 {
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 4em;
+    font-size: 3.5em;
 }
 
 form#consumoForm {
